@@ -9,7 +9,7 @@ This repository is dedicated to learning the basics of the Go programming langua
 - [x] **Install Go**
   - [x] Install Go on your machine ([Installation Guide](https://go.dev/doc/install)).
   - [x] Verify the installation with `go version`.
-- [x]**Setup Development Environment**
+- [x] **Setup Development Environment**
   - [x] Choose an IDE (e.g., VS Code, GoLand).
   - [x] Install Go plugins/extensions.
 
