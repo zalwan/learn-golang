@@ -16,16 +16,16 @@ This repository is dedicated to learning the basics of the Go programming langua
 ### 2. Basic Syntax
 
 basic-syntax/
-├── go.mod
-├── main.go
-├── hello_world/
-│   └── hello_world.go
-├── variables/
-│   └── variables_and_constants.go
-├── datatypes/
-│   └── data_types.go
-└── io/
-    └── input_output.go
+  ├── go.mod
+  ├── main.go
+  ├── hello_world/
+  │     └── hello_world.go
+  ├── variables/
+  │     └── variables_and_constants.go
+  ├── datatypes/
+  │     └── data_types.go
+  └── io/
+        └── input_output.go
 
 - [ ] Hello World Program
 - [ ] Variables and Constants
