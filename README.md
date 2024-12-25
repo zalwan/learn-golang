@@ -17,11 +17,16 @@ This repository is dedicated to learning the basics of the Go programming langua
 
 ```
 └── 📁basic-syntax
+    └── 📁datatypes
+    └── 📁hello_world
+        └── hello_world.go
+    └── 📁io
+    └── 📁variables
     └── go.mod
     └── main.go
 ```
 
-- [ ] Hello World Program
+- [x] Hello World Program
 - [ ] Variables and Constants
 - [ ] Data Types (int, float, string, bool)
 - [ ] Input/Output

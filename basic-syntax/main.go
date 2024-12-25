@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import helloworld "basic-syntax/hello_world"
 
 func main() {
-	fmt.Println("Hello, World!")
+	helloworld.HelloWorld()
 }
