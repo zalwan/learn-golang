@@ -22,12 +22,13 @@ This repository is dedicated to learning the basics of the Go programming langua
         └── hello_world.go
     └── 📁io
     └── 📁variables
+        └── variable_and_constants.go
     └── go.mod
     └── main.go
 ```
 
 - [x] Hello World Program
-- [ ] Variables and Constants
+- [x] Variables and Constants
 - [ ] Data Types (int, float, string, bool)
 - [ ] Input/Output
 
