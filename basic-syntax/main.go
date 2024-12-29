@@ -1,10 +1,9 @@
 package main
 
-import (
-	variables "basic-syntax/variables"
-)
+import "basic-syntax/datatypes"
 
 func main() {
 	// helloworld.HelloWorld()
-	variables.VariablesAndConstants()
+	// variables.VariablesAndConstants()
+	datatypes.DataTypes()
 }

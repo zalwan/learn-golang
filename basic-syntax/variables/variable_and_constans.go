@@ -35,9 +35,10 @@ func VariablesAndConstants() {
 	myMap["Suryawan"] = 30        // Adding key-value pair to the map
 
 	// Using 'make' to create a channel
-	myChannel := make(chan int, 2) // Creating a channel of int with a buffer size of 2
+	myChannel := make(chan int, 3) // Creating a channel of int with a buffer size of 2
 	myChannel <- 42                // Sending a value to the channel
 	myChannel <- 100               // Sending another value to the channel
+	myChannel <- 10                // Sending another value to the channel
 
 	_ = "This is residu" // Special Variable: Blank Identifier (_)
 

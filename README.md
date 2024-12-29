@@ -29,7 +29,8 @@ This repository is dedicated to learning the basics of the Go programming langua
 
 - [x] Hello World Program
 - [x] Variables and Constants
-- [ ] Data Types (int, float, string, bool)
+- [x] Data Types (int, float, string, bool)
+- [ ] Operators (arithmetic, comparison, logical)
 - [ ] Input/Output
 
 ### 3. Control Structures
