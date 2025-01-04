@@ -21,6 +21,7 @@ This repository is dedicated to learning the basics of the Go programming langua
     └── 📁hello_world
         └── hello_world.go
     └── 📁io
+        └── input_output.go
     └── 📁variables
         └── variable_and_constants.go
     └── 📁operators
@@ -33,7 +34,7 @@ This repository is dedicated to learning the basics of the Go programming langua
 - [x] Variables and Constants
 - [x] Data Types (int, float, string, bool)
 - [x] Operators (arithmetic, comparison, logical)
-- [ ] Input/Output
+- [x] Input/Output
 
 ### 3. Control Structures
 

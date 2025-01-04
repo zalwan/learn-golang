@@ -1,10 +1,13 @@
 package main
 
-import "basic-syntax/operators"
+import (
+	InputOutput "basic-syntax/io"
+)
 
 func main() {
 	// helloworld.HelloWorld()
 	// variables.VariablesAndConstants()
 	// datatypes.DataTypes()
-	operators.Operators()
+	// operators.Operators()
+	InputOutput.InputOutput()
 }
